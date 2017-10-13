@@ -26,6 +26,17 @@ h2 {
   font-size: 42px;
 }
 
+h3 {
+  font-family: verdana;
+  font-size: 21px;
+  text-align: center;
+  color: gray;
+}
+
+p {
+  text-align: center;
+}
+
 body {
   background-color: black;
 }
